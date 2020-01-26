@@ -2,4 +2,4 @@
 
 The ABC implementation of CONV2D.
 
-Hey Go rock it and expeect much more bigger integrations in the future
+Hey Go rock it and expect much more bigger integrations in the future
