@@ -8,7 +8,7 @@ pillow
 scikit-learn
 scipy
 tensorboard==1.8.0
-tensorflow==1.8.0
+tensorflow==2.6.4
 joblib
 Flask
 werkzeug==0.16.0
