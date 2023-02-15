@@ -11,4 +11,4 @@ tensorboard==1.8.0
 tensorflow==1.8.0
 joblib
 Flask
-werkzeug==0.16.0
+werkzeug==2.2.3
